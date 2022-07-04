@@ -1,0 +1,23 @@
+---
+- hosts: puppex
+  gather_facts: no
+  tasks:
+  - name: Setup alternate SSHd port
+    lineinfile:
+      dest: /etc/ssh/sshd_config
+      regexp: '^Port'
+      line: 'Port 7342'
+  - name: Restart SSHd
+    service:
+      name: sshd
+      state: restarted
+  - name: Allow all access to tcp port 7342
+    ufw:
+      rule: allow
+      port: '7342'
+      proto: tcp
+  - name: limit ssh access
+    ufw:
+      rule: limit
+      port: ssh
+      proto: tcp

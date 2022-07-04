@@ -1,0 +1,11 @@
+- hosts: prod
+  tasks:
+  - name:  copy ( STAR_open-buffet_com.pem and STAR_open-buffet_com.key ) files from ssl-cert directory to all open-buffet remote servers
+    copy:
+      src: /home/ansible/buffet/update-ssl-cert/ssl-cert/
+      dest: /etc/nginx/ssl
+  - name: Restart nginx service 
+    service:
+      name: nginx
+      state: restarted
+

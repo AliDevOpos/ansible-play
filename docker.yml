@@ -1,0 +1,14 @@
+---
+- name: My task
+  hosts: ssh
+  tasks:
+    #- name: install systemd
+    #  become: yes
+      #apt:
+       #name: systemd
+       #state: latest
+
+    - name: Set a hostname on hosts file
+      copy:
+       content: web01
+       dest: /etc/hosts

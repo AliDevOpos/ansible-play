@@ -1,0 +1,18 @@
+[prod]
+46.101.155.38      ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN    ##alrajhih
+#207.154.224.251      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN   ##Odex-Grant
+159.89.8.115      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##alrajhih
+139.59.87.22      ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN     ##greenbuilding
+#68.183.218.9      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##genral11-mhoamed need check
+159.65.59.36      ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN      ##neboog-website
+#142.93.34.94      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##master-alfresco centos
+165.227.59.107      ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN    ##odex-marketplace 
+#207.154.246.129      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN    ##ubuntu-s-2vcpu-4gb-fra1-01 need check
+#134.122.85.154      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN     ## debian-temp power-off
+167.71.48.107      ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##BB
+#104.248.141.166      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN    #zabbix
+#46.101.166.54      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##ERP-NEXT
+#134.122.89.187      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN     #runbot-myodex
+159.203.88.30      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       #almanallines-hosting-80
+#167.71.38.89      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ## bacula-backup-system
+#134.122.65.11      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN # kube

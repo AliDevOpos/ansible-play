@@ -1,0 +1,12 @@
+---
+- hosts: 165.232.122.191
+  gather_facts: no
+  tasks:
+# to genarate hash password
+# pip install passlib
+# python -c "from passlib.hash import sha512_crypt; import getpass; print sha512_crypt.encrypt(getpass.getpass())"
+  - name: Update root user's Password ##12#$56&*9)exp@2021
+    user: 
+      name: root
+      update_password: always 
+      password: $6$rounds=656000$j98jGUYrKOK3x2No$b.BsoB50i28xr7ROURCR1mUhLiHyvLa3AwpsnqwL9wM2IGdohvtegmK0k0Z1J/iz6jgTsPMrfI1yWvgZpw8/b/

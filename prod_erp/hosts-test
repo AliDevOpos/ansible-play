@@ -1,0 +1,48 @@
+[prod]							      |	[pupp]
+46.101.155.38      ansible_port=7812 ansible_password=TsHQ938 |	104.248.22.2                                         ansible_
+207.154.224.251      ansible_port=7812 ansible_password=TsHQ9 |	104.248.24.65                                        ansible_
+159.89.8.115      ansible_port=7812 ansible_password=TsHQ938S |	104.248.47.43                                        ansible_
+138.197.183.147      ansible_port=7812 ansible_password=TsHQ9 |	134.122.75.159                                       ansible_
+46.101.205.213      ansible_port=7812 ansible_password=TsHQ93 |	138.197.176.116                                      ansible_
+142.93.169.35      ansible_port=7812 ansible_password=TsHQ938 |	138.197.183.147                                      ansible_
+139.59.87.22      ansible_port=7812 ansible_password=TsHQ938S |	138.68.64.114                                        ansible_
+68.183.210.112      ansible_port=7812 ansible_password=TsHQ93 |	139.59.152.131                                       ansible_
+68.183.218.9      ansible_port=7812 ansible_password=TsHQ938S |	164.90.138.101                                       ansible_
+104.248.22.2      ansible_port=7812 ansible_password=TsHQ938S |	164.90.168.228                                       ansible_
+46.101.232.92      ansible_port=7812 ansible_password=TsHQ938 |	165.22.32.241                                        ansible_
+104.248.47.43      ansible_port=7812 ansible_password=TsHQ938 |	167.172.161.198                                      ansible_
+104.248.24.65      ansible_port=7812 ansible_password=TsHQ938 |	167.172.169.255                                      ansible_
+139.59.152.131      ansible_port=7812 ansible_password=TsHQ93 |	167.172.170.69                                       ansible_
+159.65.59.36      ansible_port=7812 ansible_password=TsHQ938S |	167.99.249.18                                        ansible_
+142.93.34.94      ansible_port=7812 ansible_password=TsHQ938S |	206.81.23.236                                        ansible_
+167.172.170.69      ansible_port=7812 ansible_password=TsHQ93 |	207.154.217.148                                      ansible_
+165.227.59.107      ansible_port=7812 ansible_password=TsHQ93 |	46.101.116.200                                       ansible_
+165.22.32.241      ansible_port=7812 ansible_password=TsHQ938 |	46.101.205.213                                       ansible_
+167.172.161.198      ansible_port=7812 ansible_password=TsHQ9 |	46.101.232.92                                        ansible_
+46.101.173.117      ansible_port=7812 ansible_password=TsHQ93 |	68.183.209.225                                       ansible_
+207.154.246.129      ansible_port=7812 ansible_password=TsHQ9 |	68.183.210.112                                       ansible_
+134.122.85.154      ansible_port=7812 ansible_password=TsHQ93 |	104.131.191.24                                       ansible_
+68.183.209.225      ansible_port=7812 ansible_password=TsHQ93 |	104.248.5.231                                        ansible_
+167.71.48.107      ansible_port=7812 ansible_password=TsHQ938 |	165.227.151.107                                      ansible_
+167.172.169.255      ansible_port=7812 ansible_password=TsHQ9 |	207.154.205.198                                      ansible_
+104.248.141.166      ansible_port=7812 ansible_password=TsHQ9 |	46.101.160.162                                       ansible_
+46.101.166.54      ansible_port=7812 ansible_password=TsHQ938 |	165.232.122.191                                      ansible_
+165.232.122.191      ansible_port=7812 ansible_password=TsHQ9 <
+134.122.89.187      ansible_port=7812 ansible_password=TsHQ93 <
+207.154.217.148      ansible_port=7812 ansible_password=TsHQ9 <
+167.99.249.18      ansible_port=7812 ansible_password=TsHQ938 <
+104.131.191.24      ansible_port=7812 ansible_password=TsHQ93 <
+138.68.64.114      ansible_port=7812 ansible_password=TsHQ938 <
+159.203.88.30      ansible_port=7812 ansible_password=TsHQ938 <
+167.71.38.89      ansible_port=7812 ansible_password=TsHQ938S <
+164.90.138.101      ansible_port=7812 ansible_password=TsHQ93 <
+134.122.65.11      ansible_port=7812 ansible_password=TsHQ938 <
+134.122.75.159      ansible_port=7812 ansible_password=TsHQ93 <
+46.101.116.200      ansible_port=7812 ansible_password=TsHQ93 <
+164.90.168.228      ansible_port=7812 ansible_password=TsHQ93 <
+46.101.160.162      ansible_port=7812 ansible_password=TsHQ93 <
+206.81.23.236      ansible_port=7812 ansible_password=TsHQ938 <
+104.248.5.231      ansible_port=7812 ansible_password=TsHQ938 <
+207.154.205.198      ansible_port=7812 ansible_password=TsHQ9 <
+165.227.151.107      ansible_port=7812 ansible_password=TsHQ9 <
+138.197.176.116      ansible_port=7812 ansible_password=TsHQ9 <

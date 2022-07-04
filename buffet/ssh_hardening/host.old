@@ -1,0 +1,32 @@
+[puppex]
+134.209.76.143     ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN 
+#167.71.150.37      ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN ##serp_website2
+#167.71.158.60      ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN ##testing_erpnext
+206.189.198.210    ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+165.22.24.154      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+165.22.71.193      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+#142.93.213.15      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN ##serp-website
+46.101.243.28      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+134.122.31.119     ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+165.232.67.31      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+159.89.104.80      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN 
+#159.89.15.49       ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN ##next_cloud
+#46.101.133.15      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN ##supper_set
+46.101.108.66      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+46.101.235.182     ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+46.101.122.235     ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+159.89.4.127       ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+139.59.133.167     ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+165.22.86.164      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+167.172.190.197    ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+178.128.153.131    ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+157.230.26.72      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+104.248.16.239     ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+134.122.75.91      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+134.209.126.13     ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+167.99.132.93      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+161.35.27.48       ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+46.101.122.227     ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+[master]
+165.22.71.193      ansible_port=4242 ansible_password="'12#$56&*9)exp@2021'"
+

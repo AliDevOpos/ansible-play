@@ -1,0 +1,50 @@
+[prod]
+104.248.22.2                                         ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+104.248.24.65                                        ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+104.248.47.43                                        ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+134.122.75.159                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+138.197.176.116                                      ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+138.197.183.147                                      ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+138.68.64.114                                        ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+139.59.152.131                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+164.90.138.101                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+164.90.168.228                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+165.22.32.241                                        ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+167.172.161.198                                      ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+167.172.169.255                                      ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+167.172.170.69                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+167.99.249.18                                        ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+206.81.23.236                                        ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+207.154.217.148                                      ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+46.101.116.200                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+46.101.205.213                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+46.101.232.92                                        ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+68.183.209.225                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+68.183.210.112                                       ansible_port=7812 ansible_password="'12#$56&*9)exp@2021'"
+104.131.191.24                                       ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+104.248.5.231                                        ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+165.227.151.107                                      ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+207.154.205.198                                      ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+46.101.160.162                                       ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+165.232.122.191                                      ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+142.93.169.35                                        ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+46.101.173.117                                       ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+##### list of fillterd hosts 
+46.101.155.38                                        ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN    ##alrajhih
+#207.154.224.251                                     ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN   ##Odex-Grant
+159.89.8.115                                         ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##alrajhih
+139.59.87.22                                         ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN     ##greenbuilding
+#68.183.218.9                                        ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##genral11-mhoamed need check
+159.65.59.36                                         ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN      ##neboog-website
+#142.93.34.94                                        ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##master-alfresco centos
+165.227.59.107                                       ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN    ##odex-marketplace
+#207.154.246.129                                     ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN    ##ubuntu-s-2vcpu-4gb-fra1-01 need check
+#134.122.85.154                                      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN     ## debian-temp power-off
+167.71.48.107                                        ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##BB
+#104.248.141.166                                     ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN    #zabbix
+#46.101.166.54                                       ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##ERP-NEXT
+#134.122.89.187                                      ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN     #runbot-myodex
+159.203.88.30                                        ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       #almanallines-hosting-80
+#167.71.38.89                                        ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ## bacula-backup-system
+#134.122.65.11                                       ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN # kube
+

@@ -1,0 +1,14 @@
+[all]
+104.131.191.24                                       ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+104.248.5.231                                        ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+165.227.151.107                                      ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+207.154.205.198                                      ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+46.101.160.162                                       ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+165.232.122.191                                      ansible_port=22 ansible_password="'12#$56&*9)exp@2021'"
+142.93.169.35                                        ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+46.101.173.117                                       ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN
+##### list of fillterd hosts
+159.203.88.30                                        ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       #almanallines-hosting-80
+159.89.8.115                                         ansible_port=22 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN       ##alrajhih
+139.59.87.22                                         ansible_port=7812 ansible_password=TsHQ938SSlpUqY7UM8zPyd7IN     ##greenbuilding
+
