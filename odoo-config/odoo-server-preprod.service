@@ -1,0 +1,17 @@
+[Unit]
+Description=Odoo Server Pre-Production
+Requires=postgresql.service
+After=network.target postgresql.service
+
+[Service]
+Type=simple
+Environment="CRYPTOGRAPHY_ALLOW_OPENSSL_102=1"
+SyslogIdentifier=odoo-server-preprod
+PermissionsStartOnly=true
+User=odoo
+Group=odoo
+ExecStart=/usr/bin/python3 /opt/server/odoo-bin -c /etc/odoo-server-preprod.conf
+StandardOutput=journal+console
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,18 @@
+[Unit]
+Description=Odoo Server
+Requires=postgresql.service
+After=network.target postgresql.service
+
+[Service]
+nice=-15
+Type=simple
+Environment="CRYPTOGRAPHY_ALLOW_OPENSSL_102=1"
+SyslogIdentifier=odoo-server
+PermissionsStartOnly=true
+User=odoo
+Group=odoo
+ExecStart=/usr/bin/python3 /opt/server/odoo-bin -c /etc/odoo-server.conf
+StandardOutput=journal+console
+#nice=-15
+[Install]
+WantedBy=multi-user.target
